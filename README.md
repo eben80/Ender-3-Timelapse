@@ -6,3 +6,5 @@ Fast moves to help prevent artifacts and stringing resulting from trigger moves 
 
 
 Installation: Copy .py file into the Cura scripts folder and restart Cura.
+
+Based on Custom Timelapse of Wayne Porter
